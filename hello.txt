@@ -2,4 +2,4 @@ Hello git
 i am manoj
 manojjjjjjj
 i am a conflict branch
-this is a changegit stash
+this is a changegi
